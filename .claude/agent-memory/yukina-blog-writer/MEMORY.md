@@ -1,0 +1,2 @@
+- [Approche rédactionnelle du blog](user_writing_approach.md) — Ton pour enthousiaste et pédagogique, cibles variées (parents, enseignants, devs, associations), articles détaillés
+- [Projet Linux Escape Game](project_escape_game.md) — Escape game éducatif basé sur terminal Linux, thème IA E.V.A., évolution 2026 avec pirates et binaires interactifs
