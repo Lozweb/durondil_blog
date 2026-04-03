@@ -1,6 +1,6 @@
 ---
 title: "QA : L'autodidacte résilient"
-published: 2026-02-14
+published: 2026-04-03
 description: Sans diplôme, 70h par semaine, un seul entretien obtenu — et pourtant.
 tags: [QA, Playwright, Parcours, Autodidacte]
 category: QA & Tests
