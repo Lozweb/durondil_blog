@@ -7,8 +7,8 @@ category: Projets
 cover: "https://durondil-blog.any-app.fr/storage/durondil_blog/metapixl.jpg"
 draft: false
 ---
-
-Il y a des projets qui naissent dans un garage. Celui-là est né dans un café.
+<p class="flex items-center gap-6"><strong>Metapixl :</strong> <a href="https://www.facebook.com/p/Metapixl-61558616131083/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" class="w-7 h-7 inline" /></a> <a href="https://www.helloasso.com/associations/metapixl" target="_blank" rel="noopener noreferrer"><img src="https://www.helloasso.com/favicon.ico" alt="HelloAsso" class="w-7 h-7 inline" /></a> <a href="https://www.instagram.com/p/DVq5PKnkUzf/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" class="w-7 h-7 inline" /></a> <a href="https://www.linkedin.com/in/association-metapixl-219a4b304/" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" class="w-7 h-7 inline" /></a></p>
+<p class="flex items-center gap-3">Il y a des projets qui naissent dans un garage. Celui-là est né dans un café.</p> 
 
 ---
 

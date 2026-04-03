@@ -53,7 +53,7 @@ Au programme :
 
 ## Metapixl — le projet dont je suis fier
 
-Une mention spéciale pour **[Metapixl](/)**, l'association que j'ai cofondée avec une bande de copains partageant la même passion du numérique et du rétro.
+Une mention spéciale pour **<a href="https://www.facebook.com/p/Metapixl-61558616131083/" target="_blank" rel="noopener noreferrer">Metapixl</a>**, l'association que j'ai cofondée avec une bande de copains partageant la même passion du numérique et du rétro.
 
 On organise :
 
