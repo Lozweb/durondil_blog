@@ -51,7 +51,7 @@ const YukinaConfig: Configuration = {
     "https://durondil-blog.any-app.fr/storage/durondil_blog/t6.jpg",
   ],
 
-  slugMode: "HASH", // 'RAW' | 'HASH'
+  slugMode: "RAW", // 'RAW' | 'HASH'
 
   license: {
     name: "CC BY-NC-SA 4.0",
