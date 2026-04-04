@@ -167,7 +167,14 @@ const carouselAnimationTime = `${carouselImgsList.length * 6}s`;
   }
 
   .cover {
-    @apply absolute left-0 top-0 z-0 block h-[var(--banner-height)] w-full overflow-hidden bg-white;
+    @apply absolute left-0 top-0 z-0 block w-full overflow-hidden bg-white;
+    height: calc(var(--banner-height) * 3 / 4);
+  }
+
+  @media (min-width: 1024px) {
+    .cover {
+      height: var(--banner-height);
+    }
   }
 
   .cover::before {
