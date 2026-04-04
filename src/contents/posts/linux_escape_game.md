@@ -1,7 +1,7 @@
 ---
-title: Le Drapeau de la Connaissance — Un escape game pour initier les enfants à Linux
+title: Un escape game pour initier les enfants à Linux
 published: 2026-04-03
-description: Découvrez comment transformer l'apprentissage du terminal Linux en une aventure ludique et collaborative. Un escape game pédagogique pour les enfants, gratuit et open source, qui enseigne l'informatique en jouant.
+description: Un escape game pédagogique pour les enfants, gratuit et open source, qui enseigne l'informatique en jouant.
 tags: [Linux, Éducation, Escape-Game, Open-Source, Pédagogie, Logiciel-Libre]
 category: Pédagogie
 cover: https://durondil-blog.any-app.fr/storage/durondil_blog/escape_game.jpg
