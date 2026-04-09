@@ -17,7 +17,7 @@ export interface Props {
 const props = Astro.props;
 ---
 
-<Base>
+<Base title={props.title} description={props.subTitle} image={props.bannerImage}>
   <NavBar />
 
   {
