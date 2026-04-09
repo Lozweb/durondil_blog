@@ -29,10 +29,15 @@
      * Otherwise, fetches results from the Pagefind search engine and populates the array.
      * Toggles the visibility and height of the results panel based on the outcome.
      */
+    let pagefind: any;
+    if (!import.meta.env.DEV) {
+      pagefind = await new Function('return import("/pagefind/pagefind.js")')();
+    }
+
     search = async (keyword: string) => {
+      if (!pagefind) return;
       let searchResultArr = [];
 
-      // @ts-ignore
       const ret = await pagefind.search(keyword);
       for (const item of ret.results) {
         searchResultArr.push(await item.data());
